@@ -1,1 +1,1 @@
-Installing Jenkins on EC2 with custom port
+Jenkins EC2 Setup - Installing Jenkins on EC2 with custom port
